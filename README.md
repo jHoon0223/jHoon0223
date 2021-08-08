@@ -1,5 +1,5 @@
 ### 👋 jHoon0223 / Jae-Hoon Lee
-* 🏫 SSU CSE 20
+🏫 SSU CSE 20
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjHoon0223&count_bg=%233D3D42&title_bg=%2325252B&icon=visualstudio.svg&icon_color=%230066B8&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
