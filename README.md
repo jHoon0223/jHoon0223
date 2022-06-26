@@ -1,5 +1,7 @@
 ### 👋 jHoon0223 / Jae-Hoon Lee
-🏫 SSU CSE 20
+
+* (2020.3 ~) Soongsil univ. **Computer Science & Engineering**
+* (2022.4.18 ~ 2023.10.14) 제201신속대응여단 **SIG**
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjHoon0223&count_bg=%233D3D42&title_bg=%2325252B&icon=visualstudiocode.svg&icon_color=%230066B8&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
