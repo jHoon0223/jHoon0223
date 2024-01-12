@@ -1,15 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=3498DB&height=190&text=jHoon0223&fontSize=60&fontColor=F0F3F4&fontAlign=70&animation=twinkling)
-<div>
-	### 👋 jHoon0223 / Jae-Hoon Lee
-	* (2020.3 ~) Soongsil univ. **Computer Science & Engineering**
-	* (2022.4 ~ 2023.10) ROK Army ***201st* QRB**
-</div>
+
+### 👋 jHoon0223 / Jae-Hoon Lee
+
+* (2020.3 ~) Soongsil univ. **Computer Science & Engineering**
+* (2022.4 ~ 2023.10) ROK Army ***201st* QRB**
 
 <div align="center">
 	<p> Languages </p>
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
   	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
   	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
 </div>
 
