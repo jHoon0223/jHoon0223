@@ -17,9 +17,7 @@
   	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
 </div>
 
-<div>
-	
-</div>
+####
 
 <div align="center">
 	<p> Tools & Platforms </p>
@@ -33,9 +31,7 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </div>
 
-<div>
-	
-</div>
+####
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjHoon0223&count_bg=%233D3D42&title_bg=%2325252B&icon=visualstudiocode.svg&icon_color=%230066B8&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
