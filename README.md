@@ -5,6 +5,10 @@
 * (2020.3 ~) Soongsil univ. **Computer Science & Engineering**
 * (2022.4 ~ 2023.10) ROK Army ***201st* QRB**
 
+<img src="https://img.shields.io/badge/c-#A8B9CC?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/cplusplus-#00599C?style=flat&logo=Cpp&logoColor=white"/>
+<img src="https://img.shields.io/badge/c-#A8B9CC?style=flat&logo=C&logoColor=white"/>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjHoon0223&count_bg=%233D3D42&title_bg=%2325252B&icon=visualstudiocode.svg&icon_color=%230066B8&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jHoon0223&show_icons=true&hide=prs&hide_border=true&border_radius=0&bg_color=2c2c32&title_color=0066b8&icon_color=0066b8&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
