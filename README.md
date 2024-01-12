@@ -5,10 +5,19 @@
 * (2020.3 ~) Soongsil univ. **Computer Science & Engineering**
 * (2022.4 ~ 2023.10) ROK Army ***201st* QRB**
 
+
 <div align="center">
-	<img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&logoColor=white" />
+ 	#### Languages
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
+  	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
+</div>
+
+<div align="center">
+ 	#### Tools
+	<img src="https://img.shields.io/badge/visualstudio-#5C2D91?style=flat&logo=Visual Studio&logoColor=white" />
+	<img src="https://img.shields.io/badge/visualstudiocode-#007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
+  	<img src="https://img.shields.io/badge/xcode-#147EFB?style=flat&logo=Xcode&logoColor=white" />
 </div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjHoon0223&count_bg=%233D3D42&title_bg=%2325252B&icon=visualstudiocode.svg&icon_color=%230066B8&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
