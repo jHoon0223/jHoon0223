@@ -2,8 +2,8 @@
 
 ### 👋 jHoon0223 / Jae-Hoon Lee
 
-* (2020.3 ~) Soongsil univ. **Computer Science & Engineering**
-* (2022.4 ~ 2023.10) ROK Army ***201st* QRB**
+* (2020.03 ~) Soongsil univ. **Computer Science & Engineering**
+* (2022.04 ~ 2023.10) ROK Army ***201st* QRB**
 * (2024.03 ~ ) 현대차그룹 대학생 교육봉사단 **H-점프스쿨 *11기***
 
 ####
