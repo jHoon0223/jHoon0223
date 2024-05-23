@@ -5,6 +5,7 @@
 * (2020.03 ~ ) Soongsil univ. **Computer Science & Engineering**
 * (2022.04 ~ 2023.10) ROK Army ***201st* QRB**
 * (2024.03 ~ ) 현대자동차그룹 대학생 교육봉사단 **H-점프스쿨 *11기***
+* 2024 숭실대학교 NHN IT미래인재릴레이장학생 선발
 
 ####
 
