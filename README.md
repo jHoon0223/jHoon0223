@@ -37,8 +37,8 @@
 
 ####
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jHoon0223&show_icons=true&hide=prs&hide_border=true&border_radius=0&bg_color=2c2c32&title_color=0066b8&icon_color=0066b8&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=201sabde)](https://solved.ac/201sabde/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jHoon0223&show_icons=true&hide=prs&hide_border=true&border_radius=0&bg_color=2c2c32&title_color=0066b8&icon_color=0066b8&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jHoon0223&layout=compact&hide_border=true&border_radius=0&bg_color=2c2c32&title_color=0066b8&text_color=ffffff&hide=javascript,scss,css)](https://github.com/anuraghazra/github-readme-stats) -->
 
