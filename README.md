@@ -5,7 +5,6 @@
 * (2020.03 ~ ) Soongsil univ. **Computer Science & Engineering**
 * (2024.03 ~ 2024.10) 현대자동차그룹 대학생 교육봉사단 **H-점프스쿨 *11기***
 * 2024 숭실대학교 NHN IT미래인재릴레이장학생 선발
-* (2025.01 ~ ) (주)셀렉트스타 Project 1팀 **Data Assistant**
 
 ####
 
